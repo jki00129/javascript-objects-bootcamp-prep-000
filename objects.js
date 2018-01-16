@@ -1,4 +1,5 @@
-Objects.object = 'playlist';
+var playlist = {'Jay Z': 'Monster'};
+
 
 
 
