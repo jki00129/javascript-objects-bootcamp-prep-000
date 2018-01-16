@@ -1,4 +1,5 @@
-var Objects = {object: 'playlist'}
+Objects.object = 'playlist';
+
 
 
 
