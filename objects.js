@@ -1,4 +1,5 @@
-object.playlist
+var object = new Object (playlist);
+
 
 
 
