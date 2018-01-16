@@ -1,3 +1,5 @@
-Object = {Playlist};
+var Object = {Obejct: 'Playlist'};
+
+
 
 
